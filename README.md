@@ -6,6 +6,7 @@ you can use a 2mm alankey or drill bit to make sure the gap is sufficient.
 
 things you will need:
 
+ - Stacked Slime with 601230 180mah battery and button of choice (i used 3X6X2.5 button)
  - Case.stl
  - Lid.stl
  - 38-40mm of filament (per case)
@@ -29,4 +30,5 @@ Thanks go out to
  - Emil (Ketzal) for the name idea
  - Meia (KOUNOLAB's #1 employee) for the IMU's
  - Lexie (aka scwanf) for all of the hardwork developing smols and tollerating my harrasment
+ - Lyall (Stacked Slime) for creating this format and providing firmware versions for use
  - The rest of the #Smol-Slime channel for all of the help with understanding how it all works
