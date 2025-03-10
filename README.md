@@ -18,6 +18,8 @@ Things you will need:
 
 I would reccomend printing these out of PLA+, PETG or *proper* ABS @ 0.1mm layer height (0.2 is fine but doesnt look as nice).
 
+DONT FORGET TO MAKE SURE THE LID IS UPSIDE DOWN FOR PRINTING 
+
 After printing out the case & lid ammount you need start by lining up the hinge of the case and lid. 
 (you can use the allen key or a 2nd peice of filament from the other end to help with this)
 
