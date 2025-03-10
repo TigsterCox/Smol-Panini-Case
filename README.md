@@ -16,8 +16,7 @@ Things you will need:
  - Allen key (optional)
  - Something hot (solding iron set to the temp you print at is perfect)
 
-Start by lining up the hinge of the case and lid.
--Tip: This is where the alankey or a 2nd peice of filament from the other end can come in use.
+Start by lining up the hinge of the case and lid; A tip for you, This is where the alankey or a 2nd peice of filament from the other end can come in use.
 
 Next, push your peice of filament though till you have 1mm-2mm sticking out the other side.
 Next, leaving 1mm-2mm of length, cut the extra filament off.
