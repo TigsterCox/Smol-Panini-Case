@@ -3,23 +3,24 @@ The Smol-Panini-Case is a SlimeVR Smol-Slime Case using a integrated Filament hi
 
 ![Render](https://github.com/user-attachments/assets/90485522-615b-46f5-8f86-0b18e7c6fa38)
 
-These cases have some intentionally tight tollerances on the hinges so that they are sufficiently stiff to assist with keeping the lid closed during use
+These cases have some intentionally tight tollerances on the hinges so that they are sufficiently stiff to assist with keeping the lid closed during use.
 you can use a 2mm alankey or drill bit to make sure the gap is sufficient.
+This case is intended to be used with 30mm straps.
 
-things you will need:
+Things you will need:
 
  - Stacked Slime with 601230 180mah battery and button of choice (i used 3X6X2.5 button)
  - Case.stl
  - Lid.stl
  - 38-40mm of filament (per case)
- - alan key (optional)
- - something hot (solding iron set to the temp you print at is perfect)
+ - Allen key (optional)
+ - Something hot (solding iron set to the temp you print at is perfect)
 
-Start by lining up the hinge of the case and lid
- Tip: this is where the alankey or a 2nd peice of filament from the other end can come in use
+Start by lining up the hinge of the case and lid.
+ Tip: This is where the alankey or a 2nd peice of filament from the other end can come in use.
 
-after that push your peice of filament though till you have 1mm-2mm sticking out the other side.
-Cut the extra off, again leaving 1mm-2mm of length
+Next, push your peice of filament though till you have 1mm-2mm sticking out the other side.
+Next, leaving 1mm-2mm of length, cut the extra filament off.
 
 Using your "something hot" melt and flatten the ends of the filahinge (patent pending) to the case, this will prevent it from sliding out over time.
 
@@ -28,7 +29,7 @@ This will just help loosen it up abit, dont worry about it getting loose too muc
 
 If you have any ideas, want some modifications or need some help, feel free to add me on discord (tigsteruk) or ping me in the #Smol-Slime Channel!
 
-Thanks go out to 
+Thanks go out to: 
  - Emil (Ketzal) for the name idea
  - Meia (KOUNOLAB's #1 employee) for the IMU's
  - Lexie (aka scwanf) for all of the hardwork developing smols and tollerating my harrasment
