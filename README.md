@@ -16,7 +16,10 @@ Things you will need:
  - Allen key (optional)
  - Something hot (solding iron set to the temp you print at is perfect)
 
-Start by lining up the hinge of the case and lid; A tip for you, This is where the alankey or a 2nd peice of filament from the other end can come in use.
+I would reccomend printing these out of PLA+, PETG or *proper* ABS @ 0.1mm layer height (0.2 is fine but doesnt look as nice).
+
+After printing out the case & lid ammount you need start by lining up the hinge of the case and lid. 
+(you can use the allen key or a 2nd peice of filament from the other end to help with this)
 
 Next, push your peice of filament though till you have 1mm-2mm sticking out the other side.
 Next, leaving 1mm-2mm of length, cut the extra filament off.
