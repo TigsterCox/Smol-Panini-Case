@@ -29,7 +29,7 @@ Using your "something hot" melt and flatten the ends of the filahinge (patent pe
 After you have done this, give it a couple flippy flops opening and closing it.
 This will just help loosen it up abit, dont worry about it getting loose too much, if you're opening it often, you're doing something wrong.
 
-If you have any ideas, want some modifications or need some help, feel free to add me on discord (tigsteruk) or ping me in the #Smol-Slime Channel!
+If you need some help, feel free to ping me in the #Smol-Slime Channel! @tigsteruk
 
 Thanks go out to: 
  - Emil (Ketzal) for the name idea
