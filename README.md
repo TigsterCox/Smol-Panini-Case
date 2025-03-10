@@ -32,5 +32,6 @@ Thanks go out to:
  - Emil (Ketzal) for the name idea
  - Meia (KOUNOLAB's #1 employee) for the IMU's
  - Lexie (aka scwanf) for all of the hardwork developing smols and tollerating my harrasment
+ - Shine Bright for creating the smol docs and allowing me to RTFM my way through some of this project
  - Lyall (Stacked Slime) for creating this format and providing firmware versions for use
  - The rest of the #Smol-Slime channel for all of the help with understanding how it all works
