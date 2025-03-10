@@ -1,2 +1,2 @@
 # Smol-Panini-Case
-A SlimeVR Smol-Slime Case using a integrated Filament hinge
+The Smol-Panini-Case is a SlimeVR Smol-Slime Case using a integrated Filament hinge
