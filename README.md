@@ -40,3 +40,5 @@ Thanks go out to:
  - Shine Bright for creating the smol docs and allowing me to RTFM my way through some of this project
  - Lyall (Stacked Slime) for creating this format and providing firmware versions for use
  - The rest of the #Smol-Slime channel for all of the help with understanding how it all works
+
+Hyperion Approved! <3
