@@ -14,23 +14,20 @@ Things you will need:
  - Stacked Slime with 601230 180mah battery and button of choice (i used 3X6X2.5 button)
  - Case.stl
  - Lid.stl
- - 38-40mm of filament (per case)
+ - 40-42mm of filament (per case)
  - Allen key (optional)
  - Something hot (solding iron set to the temp you print at is perfect)
+ - Some wire
 
 I would reccomend printing these out of PLA+, PETG or *proper* ABS @ 0.1mm layer height (0.2 is fine but doesnt look as nice).
 
-DONT FORGET TO MAKE SURE THE LID IS UPSIDE DOWN FOR PRINTING 
+CHECK YOUR ORIENTATIONS BEFORE PRINTING
 
-After printing out the case & lid ammount you need start by lining up the hinge of the case and lid. 
-(you can use the allen key or a 2nd peice of filament from the other end to help with this)
-
-Next, push your peice of filament though till you have 1mm-2mm sticking out the other side.
-Next, leaving 1mm-2mm of length, cut the extra filament off.
-
-Using your "something hot" melt and flatten the ends of the filahinge (patent pending) to the case, this will prevent it from sliding out over time.
-
-After you have done this, give it a couple flippy flops opening and closing it.
+After printing out the cases & lids you need: 
+simply put the lid and case together.
+push your peice of filament though leaving 1-2mm on each end, cut off the extra. (use a small allen key to help line it up if you are struggling)
+Next, Using your "something hot" melt and flatten the ends of the extra filament, fusing it to the case
+now give it a couple flippy flops opening and closing it.
 This will just help loosen it up abit, dont worry about it getting loose too much, if you're opening it often, you're doing something wrong.
 
 If you need some help, feel free to ping me in the #Smol-Slime Channel! @tigsteruk
