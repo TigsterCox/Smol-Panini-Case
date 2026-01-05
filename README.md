@@ -48,9 +48,9 @@ Thanks go out to:
 
 Hyperion Approved! <3
 
-Strap notes:
-For your consideration, I'm a rarther heavy set 5'6 dude, I use these lengths from the strap link above:
-Chest, Waist, Hips: 100CM 3x
-Thighs: 60cm 2x
-Ankles and forearms: 30cm 4x
-Upper Arms: 40cm 2x
+> Strap notes:
+> For your consideration, I'm a rarther heavy set 5'6 dude, I use these lengths from the strap link above:
+> - Chest, Waist, Hips: 100CM 3x
+> - Thighs: 60cm 2x
+> - Ankles and forearms: 30cm 4x
+> - Upper Arms: 40cm 2x
