@@ -5,6 +5,12 @@ The Smol-Panini-Case is a SlimeVR Smol-Slime Case using a integrated Filament hi
 	<img src="Renders/Renderv1.2.png"/>
 </p>
 
+# REVISION 2.1!
+Revision 2.1 brings a slightly larger design in favor for strength and a better lid mechanism
+The lid now locks into 90* increments, holding it firmly closed, open, or halfway betwixt
+The lid now sits flush! So there's no more getting it caught and bending it open (as I have suffered)
+The Internals remain largely the same so you can easily move to the new revision of case
+
 These cases have some intentionally tight tollerances on the hinges so that they are sufficiently stiff to assist with keeping the lid closed during use.
 You can use a 2mm alankey or drill bit to make sure the gap is sufficient.
 This case is intended to be used with 30mm straps which you can find [here](https://www.aliexpress.com/item/1005006112175102.html)
