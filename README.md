@@ -7,7 +7,7 @@ The Smol-Panini-Case is a SlimeVR Smol-Slime Case using a integrated Filament hi
 
 These cases have some intentionally tight tollerances on the hinges so that they are sufficiently stiff to assist with keeping the lid closed during use.
 You can use a 2mm alankey or drill bit to make sure the gap is sufficient.
-This case is intended to be used with 30mm straps which you can find (here)[https://www.aliexpress.com/item/1005006112175102.html?]
+This case is intended to be used with 30mm straps which you can find [here](https://www.aliexpress.com/item/1005006112175102.html)
 
 Things you will need:
 
