@@ -7,9 +7,9 @@ The Smol-Panini-Case is a SlimeVR Smols Case designed to utilise integrated Fila
 
 # REVISION 2.1!
 Revision 2.1 brings a slightly larger design in favor for strength and a better lid mechanism
-> Now locks into 90* increments
-> Lid sits flush! (no more getting it snagged!)
-> Matching insides for easy switch!
+ - Now locks into 90* increments
+ - Lid sits flush! (no more getting it snagged!)
+ - Matching insides for easy switch!
 
 These cases have some intentionally tight tollerances on the hinges so that they are sufficiently stiff to assist with keeping the lid closed during use.
 You can use a 2mm alankey or drill bit to make sure the gap is sufficient.
