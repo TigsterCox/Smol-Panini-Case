@@ -2,7 +2,7 @@
 The Smol-Panini-Case is a SlimeVR Smol-Slime Case using a integrated Filament hinge.
 
 <p align="center">
-	<img src="Renders/Renderv1.2.png"/>
+	<img src="Renders/Render1.png"/>
 </p>
 
 # REVISION 2.1!
