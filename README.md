@@ -25,7 +25,7 @@ Things you will need:
  - Something hot (solding iron set to the temp you print at is perfect)
  - Some wire
 
-I would reccomend printing these out of PLA+, PETG or *proper* ABS @ 0.1mm layer height (0.2 is fine but doesnt look as nice).
+I would reccomend printing these out of PLA+, PETG or better @ 0.1mm layer height (0.2 is fine but doesnt look as nice).
 
 CHECK YOUR ORIENTATIONS BEFORE PRINTING
 
